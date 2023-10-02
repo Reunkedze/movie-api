@@ -1,0 +1,16 @@
+.search-wrapper {
+    margin-top: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.search {
+    width: 40%;
+}
+
+@media (max-width: 420px) {
+    .search {
+        width: 90%;
+    }
+}

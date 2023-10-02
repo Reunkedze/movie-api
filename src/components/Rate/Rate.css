@@ -1,0 +1,15 @@
+.rate {
+    margin-bottom: auto;
+    height: 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+}
+
+.star {
+    width: 15px;
+    height: 15px;
+    background-image: url('../../../public/star.svg');
+    background-size: 15px 15px;
+}
